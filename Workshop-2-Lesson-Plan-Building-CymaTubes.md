@@ -20,12 +20,14 @@ For a budget-conconsious build, we can use 5V LEDs but you won't be able to powe
 
 ### 12V CymaTubes
 If you want to do longer runs, with more LEDs, recommend building a 12V setup:
-1. **[Deegotech USB C to USB C Cable 10ft,100W Fast Charging Cable](https://www.amazon.com/Deegotech-Charging-Compatible-MacBook-Sumsung/dp/B07XXYMM1H)**: This is a Long USB C Cable for Power Delivery. We will need one of these for our project.
-2. **[Muzata 6-Pack 3.3ft/1Meter 17x20mm U Shape Spotless Black LED Aluminum Channel System](https://www.amazon.com/Muzata-Aluminum-Channel-System-Diffuser/dp/B08B3TPN9D)**: These are the Aluminum LED Channels with Covers. We will need 4 of these for our project.
-3. **[BTF-LIGHTING 3 Pin Electrical Connector](https://www.amazon.com/BTF-LIGHTING-Electrical-Connector-Waterproof/dp/B07DPN9MMZ)**: These are Waterproof locking connectors. We will need 4 of these for our project.
-4. **[200W USB C Charger, 8-Port Desktop Charging Station](https://www.amazon.com/Charger-Desktop-Charging-Compatible-MacBook/dp/B09J2KHQKY)**: This is a USB C Power Brick to Power LEDs. We will need one of these for our project.
-5. **USB-C PD Trigger Board Module**: This is a USB C Converter to 12V. We will need one of these for our project.
-6. **ESP32 WLED pico board**: This is a Sound Reactive LED Board. We will need one of these for our project.
+
+1. **[Muzata 6-Pack 3.3ft/1Meter 17x20mm U Shape Spotless Black LED Aluminum Channel System](https://www.amazon.com/Muzata-Aluminum-Channel-System-Diffuser/dp/B08B3TPN9D)**: These are the Aluminum LED Channels with Covers. We will need 4 of these for our project.
+2. **USB-C PD Trigger Board Module**: This is a USB C Converter to 12V. We will need one of these for our project.
+3. **ESP32 WLED pico board**: This is a Sound Reactive LED Board. We will need one of these for our project.
+4. **[BTF-LIGHTING 3 Pin Electrical Connector](https://www.amazon.com/BTF-LIGHTING-Electrical-Connector-Waterproof/dp/B07DPN9MMZ)**: These are Waterproof locking connectors. We will need 4 of these for our project.
+5. **[200W USB C Charger, 8-Port Desktop Charging Station](https://www.amazon.com/Charger-Desktop-Charging-Compatible-MacBook/dp/B09J2KHQKY)**: This is a USB C Power Brick to Power LEDs. We will need one of these for our project.
+6. **[Deegotech USB C to USB C Cable 10ft,100W Fast Charging Cable](https://www.amazon.com/Deegotech-Charging-Compatible-MacBook-Sumsung/dp/B07XXYMM1H)**: This is a Long USB C Cable for Power Delivery. We will need one of these for our project.
+
 7. **GE60RGB2812BA (DC5V,IP20 Non-waterproof, 60px/m, RGB, customs length 20m/Reel,don't need any connector) The unit price**: These are 12V LED Strips, Commercial Grade Quality from Greeled. We will need 4 of these for our project.
 8. **[10 Pieces 5v Regulator Module Mini Voltage Reducer](https://www.amazon.com/Regulator-Module-Voltage-Reducer-Transformer/dp/B085TGYJQF)**: This is a 12v -> 5v converter to prevent 12v going to the ESP32 WLED pico. We will need one of these for our project.
 
