@@ -9,8 +9,9 @@
 
 ### 5V CymaTubes
 For a budget-conconsious build, we can use 5V LEDs but you won't be able to power many tubes in series:
-1. **[Muzata 6-Pack 3.3ft/1Meter 17x20mm U Shape Spotless Black LED Aluminum Channel System](https://www.amazon.com/Muzata-Aluminum-Channel-System-Diffuser/dp/B08B3TPN9D)**: These are the Aluminum LED Channels with Covers. We will need 8 of these for our project.
-2. **USB-C PD Trigger Board Module**: This is a USB C Converter to 12V. We will need 20 of these for our project.
+1. **[Muzata 6-Pack 3.3ft/1Meter 17x20mm U Shape Spotless Black LED Aluminum Channel System](https://www.amazon.com/Muzata-Aluminum-Channel-System-Diffuser/dp/B08B3TPN9D)**: These are the Aluminum LED Channels with Covers. We will need 1 of these per CymaTube.
+2. **USB-C PD Trigger Board Module**: This is a USB C Converter to easily provide power from USB A Port on the Power Bank to one or two CubeTubes. We will need 1 of these per kit.
+It is possible to power more CymaTubes with additional PD Trigger boards.
 3. **ESP32 WLED pico board**: This is a Sound Reactive LED Board. We will need 18 of these for our project.
 4. **[Power Supply (38800mAh Huge Capacity)](https://www.amazon.com/dp/B0BPST8KKZ?psc=1&smid=A6LW2T8RHHN52&ref_=chk_typ_imgToDp)**: A power supply for our project. We will need 20 of these for our project.
 5. **[LED Lights (WS2812B Led Lights DC5V WS2812 RGB Led Strip Light Individually Addressable Smart Pixels Magic Light Black White PCB IP30 65 67)](https://www.aliexpress.us/item/2251801850504415.html?spm=a2g0o.order_detail.order_detail_item.2.5303f19c6AHCmr&gatewayAdapt=glo2usa)**: These are the LED lights for our project. We will need 1x 1 meter length of 60 LEDs/m strip per CymaTube (optional ).
