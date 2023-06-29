@@ -47,7 +47,9 @@ If you want to do longer runs, with more LEDs, recommend building a 12V setup:
 - Electrical principles behind the LED tube
 
 ### Hands-On Activity: Building LED Tubes (60 minutes)
-- Step-by-step guide on building an LED tube
+- [Step-by-step guide](/instructions-cymatube.md) on building an LED tube
+- [Step-by-step guide](/instructions=power-injector.md) on assembling power injector.
+- [Step-by-step guide](/instructions-wled-pico.md) on assembling the ESP32 LED Pico
 - Mentors assistance during the activity
 
 ### Programming the LED Tubes (30 minutes)
