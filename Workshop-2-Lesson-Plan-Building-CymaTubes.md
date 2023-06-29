@@ -13,9 +13,9 @@ For a budget-conconsious build, we can use 5V LEDs but you won't be able to powe
 2. **USB-C PD Trigger Board Module**: This is a USB C Converter to 12V. We will need 20 of these for our project.
 3. **ESP32 WLED pico board**: This is a Sound Reactive LED Board. We will need 18 of these for our project.
 4. **[Power Supply (38800mAh Huge Capacity)](https://www.amazon.com/dp/B0BPST8KKZ?psc=1&smid=A6LW2T8RHHN52&ref_=chk_typ_imgToDp)**: A power supply for our project. We will need 20 of these for our project.
-5. **[LED Lights (WS2812B Led Lights DC5V WS2812 RGB Led Strip Light Individually Addressable Smart Pixels Magic Light Black White PCB IP30 65 67)](https://www.aliexpress.us/item/2251801850504415.html?spm=a2g0o.order_detail.order_detail_item.2.5303f19c6AHCmr&gatewayAdapt=glo2usa)**: These are the LED lights for our project. We will need 80 of these for our project.
-6. **[Additional Component 1](https://www.amazon.com/gp/product/B07T8FL51T/ref=ox_sc_act_title_2?smid=A1OHX1ZYWFEJ99&psc=1)**: We will need 20 of these for our project.
-7. **[Additional Component 2](https://www.amazon.com/gp/product/B01DC0KIT2/ref=ox_sc_act_title_1?smid=A35UAT07QG3EC6&psc=1)**: We will need 1 of this for our project.
+5. **[LED Lights (WS2812B Led Lights DC5V WS2812 RGB Led Strip Light Individually Addressable Smart Pixels Magic Light Black White PCB IP30 65 67)](https://www.aliexpress.us/item/2251801850504415.html?spm=a2g0o.order_detail.order_detail_item.2.5303f19c6AHCmr&gatewayAdapt=glo2usa)**: These are the LED lights for our project. We will need 1x 1 meter length of 60 LEDs/m strip per CymaTube (optional ).
+6. **[USB A to C Cable](https://www.amazon.com/gp/product/B07T8FL51T/ref=ox_sc_act_title_2?smid=A1OHX1ZYWFEJ99&psc=1)**: We will need 1 per kit to provide power to the CymaTubes.
+7. **[JST Connectors](https://www.amazon.com/gp/product/B01DC0KIT2/ref=ox_sc_act_title_1?smid=A35UAT07QG3EC6&psc=1)**: We will need an input and and output connector for each kit, it will provide USB C power injection. If your LED strip does not have connectors, you will need 2 additional per CymaTube.
 
 
 ### 12V CymaTubes
